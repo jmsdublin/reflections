@@ -1,0 +1,37 @@
+btw, we are starting validation on the Scheduler issue next week.
+Hopefully I will keep you posted this time :P
+
+
+A
+B
+
+C
+#
+%
+E
+F
+
+
+--- file.txt    2014-12-03 16:27:41.000000000 -0500
++++ updated.txt 2014-12-03 16:28:11.000000000 -0500
+@@ -2,4 +2,6 @@
+ B
++$
+ C
+-D
++#
++%
+ E
+ 
+ Which arguments would you need to give the git diff command
+ 
+ 
+ git commit --amend --reset-author
+ 
+ 
+I don't see "software.mysql_5.6_GPL_x64_SONOM" set in default.properties. Maybe I'm missing something.
+Also, 
+
+
+origin  https://github.com/udacity/asteroids.git (fetch)
+origin  https://github.com/udacity/asteroids.git (push)
